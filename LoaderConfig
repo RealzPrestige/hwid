@@ -2,4 +2,4 @@ BOOLEAN HWIDCHECK = true;
 INTEGER RETRIES = 1;
 BOOLEAN UUIDCHECK = true;
 BOOLEAN ANTIVM = true;
-STRING HWIDFILE = 
+STRING HWIDFILE = "https://github.com/RealzPrestige/hwid/blob/main/README.md";
